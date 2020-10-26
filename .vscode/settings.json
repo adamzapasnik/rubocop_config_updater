@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "Gemfile.lock": true,
+        "Gemfile": true,
+        ".vscode": true,
+        ".gitignore": true,
+        ".ruby-version": true,
+        ".editorconfig": true,
+        "bin": true,
+        "exe": true,
+        "LICENSE": true
+    },
+    "explorerExclude.backup": null
+}

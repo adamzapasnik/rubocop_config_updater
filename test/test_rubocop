@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+stderr = ARGV.first == 'nothing' ? '' : ARGV.first
+warn stderr
